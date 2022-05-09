@@ -9,7 +9,7 @@ Autor: Beatriz Ruiz-Mateos Fernández
 
 Fecha: Mayo de 2022
 
-(Imagen aquí)
+![](https://upload.wikimedia.org/wikipedia/commons/1/11/Reading-Glasses.jpg)
 
 
 
@@ -19,17 +19,15 @@ Fecha: Mayo de 2022
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
-## Re-descubriendo la hibridación: ¿Quién engañó a Roger Rabbit?
+## Caso 1: *¿Quién engañó a Roger Rabbit?*
 
-(Imagen aquí)
+![](https://upload.wikimedia.org/wikipedia/commons/8/80/Who_Framed_Roger_Rabbit_logo.png)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 
-## Re-descubriendo la hibridación: The Congress
-
-(Imagen aquí)
+## Caso 2: *The Congress*
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
